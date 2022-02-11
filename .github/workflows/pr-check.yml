@@ -1,6 +1,6 @@
 name: Pull Request Check
 
-# mainブランチへのプルリクエスト時にトリガー
+# mainブランチへのプルリクエスト時にトリガー 
 on:
   pull_request:
     branches: [ main ]
